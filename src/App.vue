@@ -4,7 +4,7 @@ const testHmr = new TestHmr();
 </script>
 
 <template>
-  <div>this is 11</div>
+  <div>this is </div>
 </template>
 
 <style scoped>
